@@ -2,6 +2,7 @@
 
 This is a social network application for users to post media including pictures and short videos. 
 Backend-server implemented based on Go language.
+Front-end implemented by React framework.
 
 The project was built on Google Cloud Platform; 
 Images and all media files are stored in Google Cloud Storage;
